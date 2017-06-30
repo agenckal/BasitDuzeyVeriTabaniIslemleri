@@ -1,0 +1,30 @@
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.Form1.resources
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.Properties.Resources.resources
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.csproj.GenerateResource.Cache
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\KisilerVt.mdf
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\KisilerVt_log.ldf
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\VeriTabaniIslemleri.exe
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\VeriTabaniIslemleri.pdb
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.exe
+C:\Documents and Settings\itstajyer2\Belgelerim\Visual Studio 2008\Projects\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.pdb
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.exe
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.pdb
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\KisilerVt.mdf
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\KisilerVt_log.ldf
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\VeriTabaniIslemleri.exe
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\VeriTabaniIslemleri.pdb
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\ResolveAssemblyReference.cache
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.Form1.resources
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.Properties.Resources.resources
+H:\BU_GUN\VeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.csproj.GenerateResource.Cache
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.exe
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.pdb
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\KisilerVt.mdf
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\KisilerVt_log.ldf
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\VeriTabaniIslemleri.exe
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\bin\Debug\VeriTabaniIslemleri.pdb
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\ResolveAssemblyReference.cache
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.Form1.resources
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.Properties.Resources.resources
+H:\BU_GUN\BasitDuzeyVeriTabaniIslemleri\VeriTabaniIslemleri\obj\Debug\VeriTabaniIslemleri.csproj.GenerateResource.Cache
